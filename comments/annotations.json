@@ -1,0 +1,1084 @@
+{
+  "comments": [
+    {
+      "canvasID": "s-95adc887-3e85-4566-95d6-d7b6077c8c85",
+      "elementID": "s-Label_1",
+      "canvasURL": "screens/95adc887-3e85-4566-95d6-d7b6077c8c85",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 1,
+      "parentCode": null,
+      "content": "登录账号：家庭农场\n登录密码：123456",
+      "timestamp": "1432516696064",
+      "date": "25-May-2015 09:18",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-95adc887-3e85-4566-95d6-d7b6077c8c85",
+      "elementID": "s-Label_1",
+      "canvasURL": "screens/95adc887-3e85-4566-95d6-d7b6077c8c85",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 2,
+      "parentCode": null,
+      "content": "账号没有输入或者账号错误都会有相应的动效",
+      "timestamp": "1432517541134",
+      "date": "25-May-2015 09:32",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-3372d9aa-afd7-4f79-b380-dbda46cdecf9",
+      "elementID": "s-Input_4",
+      "canvasURL": "screens/3372d9aa-afd7-4f79-b380-dbda46cdecf9",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 3,
+      "parentCode": null,
+      "content": "用户在输入非数字或者数字超过11个数字时输入框内无法输入",
+      "timestamp": "1432619133277",
+      "date": "26-May-2015 13:45",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-3372d9aa-afd7-4f79-b380-dbda46cdecf9",
+      "elementID": "s-Label_1",
+      "canvasURL": "screens/3372d9aa-afd7-4f79-b380-dbda46cdecf9",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 4,
+      "parentCode": null,
+      "content": "第一次点击后出现使用短信读取权限的消息框",
+      "timestamp": "1432620967500",
+      "date": "26-May-2015 14:16",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-3372d9aa-afd7-4f79-b380-dbda46cdecf9",
+      "elementID": "s-Label_1",
+      "canvasURL": "screens/3372d9aa-afd7-4f79-b380-dbda46cdecf9",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 5,
+      "parentCode": null,
+      "content": "密码找回成功后登录页自动读取找回密码时输入的手机号码",
+      "timestamp": "1432629862402",
+      "date": "26-May-2015 16:44",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-95adc887-3e85-4566-95d6-d7b6077c8c85",
+      "elementID": "s-Input_1",
+      "canvasURL": "screens/95adc887-3e85-4566-95d6-d7b6077c8c85",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 6,
+      "parentCode": null,
+      "content": "自动读取找回密码时输入的手机号码",
+      "timestamp": "1432629923199",
+      "date": "26-May-2015 16:45",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-95adc887-3e85-4566-95d6-d7b6077c8c85",
+      "elementID": "s-Input_4",
+      "canvasURL": "screens/95adc887-3e85-4566-95d6-d7b6077c8c85",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 7,
+      "parentCode": null,
+      "content": "如果点击了找回密码，则自动读取短信里的密码",
+      "timestamp": "1432629947677",
+      "date": "26-May-2015 16:45",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-95adc887-3e85-4566-95d6-d7b6077c8c85",
+      "elementID": "s-Label_1",
+      "canvasURL": "screens/95adc887-3e85-4566-95d6-d7b6077c8c85",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 8,
+      "parentCode": null,
+      "content": "如果任何有一个输入框没有输入则按钮无效果",
+      "timestamp": "1432630651071",
+      "date": "26-May-2015 16:57",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-3372d9aa-afd7-4f79-b380-dbda46cdecf9",
+      "elementID": "s-Label_1",
+      "canvasURL": "screens/3372d9aa-afd7-4f79-b380-dbda46cdecf9",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 9,
+      "parentCode": null,
+      "content": "可以通过不同手机号码查看手机号码验证后的效果：\n1.存在手机号码：13800000001；\n2.不存在手机号码：13800000002",
+      "timestamp": "1432692192979",
+      "date": "27-May-2015 10:03",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "m-1b9f4c36-f373-4c76-a3ee-d4b679872379",
+      "elementID": "m-1b9f4c36-f373-4c76-a3ee-d4b679872379",
+      "canvasURL": "masters/1b9f4c36-f373-4c76-a3ee-d4b679872379",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 10,
+      "parentCode": null,
+      "content": "导航栏位置在页面切换的时候不动，点击某个栏目后文字和图片的背景颜色变化",
+      "timestamp": "1432705488538",
+      "date": "27-May-2015 13:44",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-10eede6c-7b7b-4579-ab25-c49a2de2bcfb",
+      "elementID": "s-Label_86",
+      "canvasURL": "screens/10eede6c-7b7b-4579-ab25-c49a2de2bcfb",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 11,
+      "parentCode": null,
+      "content": "如果时间正好是当年则不显示年份",
+      "timestamp": "1432867831505",
+      "date": "29-May-2015 10:50",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-10eede6c-7b7b-4579-ab25-c49a2de2bcfb",
+      "elementID": "s-Rectangle_24",
+      "canvasURL": "screens/10eede6c-7b7b-4579-ab25-c49a2de2bcfb",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 12,
+      "parentCode": null,
+      "content": "省略号代表图片保存的路径",
+      "timestamp": "1432956320148",
+      "date": "30-May-2015 11:25",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-10eede6c-7b7b-4579-ab25-c49a2de2bcfb",
+      "elementID": "s-Rectangle_7",
+      "canvasURL": "screens/10eede6c-7b7b-4579-ab25-c49a2de2bcfb",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 13,
+      "parentCode": null,
+      "content": "保存结果输出文字里的省略号代表图片的保存路径（app的缓存路径）",
+      "timestamp": "1432957067703",
+      "date": "30-May-2015 11:37",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-1750e58c-c2dd-49bd-8367-895b66a15747",
+      "elementID": "s-Image_5",
+      "canvasURL": "screens/1750e58c-c2dd-49bd-8367-895b66a15747",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 14,
+      "parentCode": null,
+      "content": "图片可以和查看种植图片一样放大",
+      "timestamp": "1432968673495",
+      "date": "30-May-2015 14:51",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 15,
+      "parentCode": null,
+      "content": "点击后右下角的按钮文字相应改变，其中的数字代表选择照片的数量",
+      "timestamp": "1432972535711",
+      "date": "30-May-2015 15:55",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-1750e58c-c2dd-49bd-8367-895b66a15747",
+      "elementID": "s-Image_5",
+      "canvasURL": "screens/1750e58c-c2dd-49bd-8367-895b66a15747",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 16,
+      "parentCode": null,
+      "content": "左右可以切换图片",
+      "timestamp": "1432972718021",
+      "date": "30-May-2015 15:58",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 17,
+      "parentCode": null,
+      "content": "每次选择后按钮会有个小的效果：先放大后变为原来尺寸；当已选图片为9张时则按钮不能再被选择",
+      "timestamp": "1432972747867",
+      "date": "30-May-2015 15:59",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-c2162ffe-5891-4799-ae84-29ba8d518269",
+      "elementID": "s-Check-box_1",
+      "canvasURL": "screens/c2162ffe-5891-4799-ae84-29ba8d518269",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 18,
+      "parentCode": null,
+      "content": "选中后的按钮效果设计成：按钮背景为绿色，\u201c√\u201d为白色",
+      "timestamp": "1432973949239",
+      "date": "30-May-2015 16:19",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 19,
+      "parentCode": null,
+      "content": "选中后的按钮效果设计成：按钮背景为绿色，\u201c√\u201d为白色",
+      "timestamp": "1432974018386",
+      "date": "30-May-2015 16:20",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-c2162ffe-5891-4799-ae84-29ba8d518269",
+      "elementID": "s-Rectangle_5",
+      "canvasURL": "screens/c2162ffe-5891-4799-ae84-29ba8d518269",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 20,
+      "parentCode": null,
+      "content": "按钮会在用户选择图片后出现所选图片数量，并根据用户所选择的数量而做相应的数字改变",
+      "timestamp": "1432977394437",
+      "date": "30-May-2015 17:16",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-c2162ffe-5891-4799-ae84-29ba8d518269",
+      "elementID": "s-Rectangle_5",
+      "canvasURL": "screens/c2162ffe-5891-4799-ae84-29ba8d518269",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 21,
+      "parentCode": null,
+      "content": "在没有选择图片时该按钮是灰色的并且不能选择；如果图片数量多于9张系统会有提示框",
+      "timestamp": "1432977462749",
+      "date": "30-May-2015 17:17",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-106e12c9-fc2d-4ad2-9a19-fc2d45765a3e",
+      "elementID": "s-close-white",
+      "canvasURL": "screens/106e12c9-fc2d-4ad2-9a19-fc2d45765a3e",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 22,
+      "parentCode": null,
+      "content": "点击后该图片删除，其他图片顺势往前排",
+      "timestamp": "1433055697367",
+      "date": "31-May-2015 15:01",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-9abbd33e-7e20-439e-89fd-57fd62c47a93",
+      "elementID": "s-Label_3",
+      "canvasURL": "screens/9abbd33e-7e20-439e-89fd-57fd62c47a93",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 23,
+      "parentCode": null,
+      "content": "如果最近无搜索品种，则在横线下面显示一行文字：近期暂无搜索记录",
+      "timestamp": "1433128210248",
+      "date": "01-Jun-2015 11:10",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-9abbd33e-7e20-439e-89fd-57fd62c47a93",
+      "elementID": "s-Input_11",
+      "canvasURL": "screens/9abbd33e-7e20-439e-89fd-57fd62c47a93",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 24,
+      "parentCode": null,
+      "content": "当用户输入完毕后就显示搜索结果，该搜索为联想搜索，不必把产品名都写完整才能搜出该品种，搜索结果是实时的，是否考虑每次打开app对品种信息进行缓存到本地数据库",
+      "timestamp": "1433128410169",
+      "date": "01-Jun-2015 11:13",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-70bb128e-46f2-4626-8d71-4815e1caf146",
+      "elementID": "s-70bb128e-46f2-4626-8d71-4815e1caf146",
+      "canvasURL": "screens/70bb128e-46f2-4626-8d71-4815e1caf146",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 25,
+      "parentCode": null,
+      "content": "拍照时需要判断用户是竖屏在拍摄还是横屏在拍摄，拍摄结果需要和用户拍摄时的屏幕方向一致",
+      "timestamp": "1433128695142",
+      "date": "01-Jun-2015 11:18",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-95adc887-3e85-4566-95d6-d7b6077c8c85",
+      "elementID": "s-Label_1",
+      "canvasURL": "screens/95adc887-3e85-4566-95d6-d7b6077c8c85",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 26,
+      "parentCode": null,
+      "content": "默认自动记住密码与自动登录，自动登录时间为7天",
+      "timestamp": "1433128758209",
+      "date": "01-Jun-2015 11:19",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 27,
+      "parentCode": null,
+      "content": "返回链接不固定，而是返回上一页面",
+      "timestamp": "1433128828396",
+      "date": "01-Jun-2015 11:20",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 28,
+      "parentCode": null,
+      "content": "返回链接不固定，而是返回上一页面",
+      "timestamp": "1433128835036",
+      "date": "01-Jun-2015 11:20",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 29,
+      "parentCode": null,
+      "content": "返回链接不固定，而是返回上一页面",
+      "timestamp": "1433128857571",
+      "date": "01-Jun-2015 11:20",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-ba0d90ad-0af3-4b3d-84bd-d45e17d37688",
+      "elementID": "s-Ellipse_233",
+      "canvasURL": "screens/ba0d90ad-0af3-4b3d-84bd-d45e17d37688",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 30,
+      "parentCode": null,
+      "content": "圆圈的颜色代表消息是否已读，未读为红色；已读为另一个颜色",
+      "timestamp": "1433144763149",
+      "date": "01-Jun-2015 15:46",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-ba0d90ad-0af3-4b3d-84bd-d45e17d37688",
+      "elementID": "s-Hotspot_1",
+      "canvasURL": "screens/ba0d90ad-0af3-4b3d-84bd-d45e17d37688",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 31,
+      "parentCode": null,
+      "content": "左划可以调出删除按钮，长按也可以调出查看和删除按钮",
+      "timestamp": "1433144801833",
+      "date": "01-Jun-2015 15:46",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-131e0aa3-ec76-40cb-b641-12bfbe12b267",
+      "elementID": "s-Rectangle_9",
+      "canvasURL": "screens/131e0aa3-ec76-40cb-b641-12bfbe12b267",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 32,
+      "parentCode": null,
+      "content": "点击后直接关闭该软件",
+      "timestamp": "1433208243791",
+      "date": "02-Jun-2015 09:24",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-131e0aa3-ec76-40cb-b641-12bfbe12b267",
+      "elementID": "s-Image_1",
+      "canvasURL": "screens/131e0aa3-ec76-40cb-b641-12bfbe12b267",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 33,
+      "parentCode": null,
+      "content": "该区域为用户的头像，点击头像更换",
+      "timestamp": "1433210543827",
+      "date": "02-Jun-2015 10:02",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-131e0aa3-ec76-40cb-b641-12bfbe12b267",
+      "elementID": "s-Image_1",
+      "canvasURL": "screens/131e0aa3-ec76-40cb-b641-12bfbe12b267",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 34,
+      "parentCode": null,
+      "content": "设计人员需要设计一张无头像时的默认头像",
+      "timestamp": "1433210568683",
+      "date": "02-Jun-2015 10:02",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-c2162ffe-5891-4799-ae84-29ba8d518269",
+      "elementID": "s-c2162ffe-5891-4799-ae84-29ba8d518269",
+      "canvasURL": "screens/c2162ffe-5891-4799-ae84-29ba8d518269",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 35,
+      "parentCode": null,
+      "content": "该相册默认读取所有图片",
+      "timestamp": "1433212375069",
+      "date": "02-Jun-2015 10:32",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-8a638ee1-d936-47c6-b4d7-1fa17ca84294",
+      "elementID": "s-Label_3",
+      "canvasURL": "screens/8a638ee1-d936-47c6-b4d7-1fa17ca84294",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 36,
+      "parentCode": null,
+      "content": "品种的筛选是根据用户已有的品种的分类进行的筛选，非全部分类都在这里",
+      "timestamp": "1433296946005",
+      "date": "03-Jun-2015 10:02",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-1f6b2e0b-5329-4008-bebb-251073969097",
+      "elementID": "s-Rich_text_2",
+      "canvasURL": "screens/1f6b2e0b-5329-4008-bebb-251073969097",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 37,
+      "parentCode": null,
+      "content": "默认显示为一行内容，如果比较多的话就换成两行",
+      "timestamp": "1433297570754",
+      "date": "03-Jun-2015 10:12",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-1f6b2e0b-5329-4008-bebb-251073969097",
+      "elementID": "s-Rich_text_3",
+      "canvasURL": "screens/1f6b2e0b-5329-4008-bebb-251073969097",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 38,
+      "parentCode": null,
+      "content": "默认显示为一行内容，如果比较多的话就换成两行",
+      "timestamp": "1433297898743",
+      "date": "03-Jun-2015 10:18",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-1f6b2e0b-5329-4008-bebb-251073969097",
+      "elementID": "s-Rich_text_4",
+      "canvasURL": "screens/1f6b2e0b-5329-4008-bebb-251073969097",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 39,
+      "parentCode": null,
+      "content": "默认显示为一行内容，如果比较多的话就换成两行",
+      "timestamp": "1433297904907",
+      "date": "03-Jun-2015 10:18",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-1f6b2e0b-5329-4008-bebb-251073969097",
+      "elementID": "s-Rich_text_1",
+      "canvasURL": "screens/1f6b2e0b-5329-4008-bebb-251073969097",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 40,
+      "parentCode": null,
+      "content": "默认显示为一行内容，如果比较多的话就换成两行",
+      "timestamp": "1433297911170",
+      "date": "03-Jun-2015 10:18",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-8968bbcb-9f77-4386-a044-f35f845331af",
+      "elementID": "s-Image_2",
+      "canvasURL": "screens/8968bbcb-9f77-4386-a044-f35f845331af",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 41,
+      "parentCode": null,
+      "content": "图片可以拖拽放大",
+      "timestamp": "1433299398664",
+      "date": "03-Jun-2015 10:43",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-e0efbf8a-6d1f-4567-9add-cf7f4d1a561d",
+      "elementID": "s-Image_1",
+      "canvasURL": "screens/e0efbf8a-6d1f-4567-9add-cf7f4d1a561d",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 42,
+      "parentCode": null,
+      "content": "图片可以拖拽放大",
+      "timestamp": "1433299405694",
+      "date": "03-Jun-2015 10:43",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-bb053206-abe2-46c2-837e-66201ed17682",
+      "elementID": "s-Rectangle_3",
+      "canvasURL": "screens/bb053206-abe2-46c2-837e-66201ed17682",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 43,
+      "parentCode": null,
+      "content": "如果密码两项均未填写则\u201c完成\u201d按钮文字为灰色，点击后没有效果；如果只输入任意一项密码则提示：两次填写的密码不一致！",
+      "timestamp": "1433309153882",
+      "date": "03-Jun-2015 13:25",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-131e0aa3-ec76-40cb-b641-12bfbe12b267",
+      "elementID": "s-Rectangle_10",
+      "canvasURL": "screens/131e0aa3-ec76-40cb-b641-12bfbe12b267",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 44,
+      "parentCode": null,
+      "content": "如果无新版本，则显示右箭头",
+      "timestamp": "1433310234370",
+      "date": "03-Jun-2015 13:43",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-621f3efa-5744-4b70-89a8-67a913bfde4b",
+      "elementID": "s-Rectangle_10",
+      "canvasURL": "screens/621f3efa-5744-4b70-89a8-67a913bfde4b",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 45,
+      "parentCode": null,
+      "content": "如果有新版本则直接开始下载，如果无新版本则用右箭头代替，并提示：该版本已经是最新版本！",
+      "timestamp": "1433311243166",
+      "date": "03-Jun-2015 14:00",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-50c939f2-61ac-4ee8-bcbc-fb0d8006c039",
+      "elementID": "s-Input_1",
+      "canvasURL": "screens/50c939f2-61ac-4ee8-bcbc-fb0d8006c039",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 46,
+      "parentCode": null,
+      "content": "当光标在输入框里时默认提示句不消失，当用户开始输入时才消失，并且提交按钮文字变白",
+      "timestamp": "1433313429088",
+      "date": "03-Jun-2015 14:37",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-95adc887-3e85-4566-95d6-d7b6077c8c85",
+      "elementID": "s-Input_2",
+      "canvasURL": "screens/95adc887-3e85-4566-95d6-d7b6077c8c85",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 47,
+      "parentCode": null,
+      "content": "当光标在输入框里时默认提示句不消失，当用户开始输入时才消失，并且登录按钮文字变白",
+      "timestamp": "1433313472077",
+      "date": "03-Jun-2015 14:37",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-95adc887-3e85-4566-95d6-d7b6077c8c85",
+      "elementID": "s-Input_1",
+      "canvasURL": "screens/95adc887-3e85-4566-95d6-d7b6077c8c85",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 48,
+      "parentCode": null,
+      "content": "当光标在输入框里时默认提示句不消失，当用户开始输入时才消失，并且登录按钮文字变白",
+      "timestamp": "1433313487812",
+      "date": "03-Jun-2015 14:38",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 49,
+      "parentCode": null,
+      "content": "每行最多上传4张，多了就换行",
+      "timestamp": "1433314476195",
+      "date": "03-Jun-2015 14:54",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-326dc7e2-9da9-4015-9e63-b38aef8fa719",
+      "elementID": "s-326dc7e2-9da9-4015-9e63-b38aef8fa719",
+      "canvasURL": "screens/326dc7e2-9da9-4015-9e63-b38aef8fa719",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 50,
+      "parentCode": null,
+      "content": "当页面到这页面时则按钮上下跳动下引起用户注意",
+      "timestamp": "1433318708887",
+      "date": "03-Jun-2015 16:05",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-326dc7e2-9da9-4015-9e63-b38aef8fa719",
+      "elementID": "s-Rectangle_1",
+      "canvasURL": "screens/326dc7e2-9da9-4015-9e63-b38aef8fa719",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 51,
+      "parentCode": null,
+      "content": "当用户在打开引导页或者登录过渡页时后台已经开始加载登录页面",
+      "timestamp": "1433319592540",
+      "date": "03-Jun-2015 16:19",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-bb76cf41-ec96-49aa-ab92-c231419b50ad",
+      "elementID": "s-Image_2",
+      "canvasURL": "screens/bb76cf41-ec96-49aa-ab92-c231419b50ad",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 52,
+      "parentCode": null,
+      "content": "该页面的图片可以放大缩小",
+      "timestamp": "1433320552129",
+      "date": "03-Jun-2015 16:35",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-70bb128e-46f2-4626-8d71-4815e1caf146",
+      "elementID": "s-70bb128e-46f2-4626-8d71-4815e1caf146",
+      "canvasURL": "screens/70bb128e-46f2-4626-8d71-4815e1caf146",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 53,
+      "parentCode": null,
+      "content": "该页面的图片可以放大缩小",
+      "timestamp": "1433320570792",
+      "date": "03-Jun-2015 16:36",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-8a638ee1-d936-47c6-b4d7-1fa17ca84294",
+      "elementID": "s-8a638ee1-d936-47c6-b4d7-1fa17ca84294",
+      "canvasURL": "screens/8a638ee1-d936-47c6-b4d7-1fa17ca84294",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 55,
+      "parentCode": null,
+      "content": "页面的刷新功能除了右上角的刷新键也加入时下常用的下拉刷新；下拉刷新时会出现我们家庭农场的logo（这个logo刚开始时无色的，然后颜色随着刷新时间的演唱颜色被慢慢填满，填满后结束刷新）",
+      "timestamp": "1433321141498",
+      "date": "03-Jun-2015 16:45",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 56,
+      "parentCode": null,
+      "content": "当用户滑到某个时期时这块文字会自动变化成相应的时期文字",
+      "timestamp": "1433321485875",
+      "date": "03-Jun-2015 16:51",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-106e12c9-fc2d-4ad2-9a19-fc2d45765a3e",
+      "elementID": "s-Panel_7",
+      "canvasURL": "screens/106e12c9-fc2d-4ad2-9a19-fc2d45765a3e",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 57,
+      "parentCode": null,
+      "content": "如果系统未开启gps则显示：无法获取当前位置信息，请打开GPS进行定位；如果未开启gps但是图片有位置信息则显示：无法获取当前位置信息，图片拍摄位置：浙江杭州萧山区振宁路1号",
+      "timestamp": "1433487277380",
+      "date": "05-Jun-2015 14:54",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-106e12c9-fc2d-4ad2-9a19-fc2d45765a3e",
+      "elementID": "s-Panel_7",
+      "canvasURL": "screens/106e12c9-fc2d-4ad2-9a19-fc2d45765a3e",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 58,
+      "parentCode": null,
+      "content": "在未开启gps的情况下点击按钮无效",
+      "timestamp": "1433487344360",
+      "date": "05-Jun-2015 14:55",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-ba0d90ad-0af3-4b3d-84bd-d45e17d37688",
+      "elementID": "s-Label_537",
+      "canvasURL": "screens/ba0d90ad-0af3-4b3d-84bd-d45e17d37688",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 59,
+      "parentCode": null,
+      "content": "两个数字分别代表未读消息数量和总消息数量",
+      "timestamp": "1433740748773",
+      "date": "08-Jun-2015 13:19",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-106e12c9-fc2d-4ad2-9a19-fc2d45765a3e",
+      "elementID": "s-Image_1",
+      "canvasURL": "screens/106e12c9-fc2d-4ad2-9a19-fc2d45765a3e",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 60,
+      "parentCode": null,
+      "content": "每张图片右上角有一个×的按钮用来款速删除图片",
+      "timestamp": "1433745936605",
+      "date": "08-Jun-2015 14:45",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-dce32422-9eb4-4244-a8e4-7181545f268f",
+      "elementID": "s-dce32422-9eb4-4244-a8e4-7181545f268f",
+      "canvasURL": "screens/dce32422-9eb4-4244-a8e4-7181545f268f",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 61,
+      "parentCode": null,
+      "content": "时间点顺序为：\n分钟级别：1分钟前、3分钟前、5分钟前、30分钟前；\n小时级别：1小时前、2小时前\u2026\u202623小时前；\n天数级别：1天前、2天前\u2026\u20267天前\n日期级别：大于7天的则显示日期\n大于1年的则再显示年份（本年的不显示年份）",
+      "timestamp": "1433747200162",
+      "date": "08-Jun-2015 15:06",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-dce32422-9eb4-4244-a8e4-7181545f268f",
+      "elementID": "s-Rectangle_1",
+      "canvasURL": "screens/dce32422-9eb4-4244-a8e4-7181545f268f",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 62,
+      "parentCode": null,
+      "content": "该按钮和期数在用户上划一段距离后上移触顶不动并遮住页面名，下滑一段距离后再下移显示",
+      "timestamp": "1433755208674",
+      "date": "08-Jun-2015 17:20",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-106e12c9-fc2d-4ad2-9a19-fc2d45765a3e",
+      "elementID": "s-106e12c9-fc2d-4ad2-9a19-fc2d45765a3e",
+      "canvasURL": "screens/106e12c9-fc2d-4ad2-9a19-fc2d45765a3e",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 63,
+      "parentCode": null,
+      "content": "天气数据在用户点击完成后自动对接数据并一起录入数据库，用户不用填写",
+      "timestamp": "1433832275098",
+      "date": "09-Jun-2015 14:44",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-10eede6c-7b7b-4579-ab25-c49a2de2bcfb",
+      "elementID": "s-Label_1",
+      "canvasURL": "screens/10eede6c-7b7b-4579-ab25-c49a2de2bcfb",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 64,
+      "parentCode": null,
+      "content": "温度等天气数据是读取当天上传到数据库的天气数据",
+      "timestamp": "1433832324687",
+      "date": "09-Jun-2015 14:45",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-dce32422-9eb4-4244-a8e4-7181545f268f",
+      "elementID": "s-Panel_10",
+      "canvasURL": "screens/dce32422-9eb4-4244-a8e4-7181545f268f",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 65,
+      "parentCode": null,
+      "content": "该进度条只有在用户点击图片上传\u201c完成\u201d后显示，并且是从上往下展开显示，结束也是从下往上隐藏",
+      "timestamp": "1434339390055",
+      "date": "15-Jun-2015 11:36",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-dce32422-9eb4-4244-a8e4-7181545f268f",
+      "elementID": "s-Panel_10",
+      "canvasURL": "screens/dce32422-9eb4-4244-a8e4-7181545f268f",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 66,
+      "parentCode": null,
+      "content": "左边那张图取最后1张用户上传的图片",
+      "timestamp": "1434339421614",
+      "date": "15-Jun-2015 11:37",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-131e0aa3-ec76-40cb-b641-12bfbe12b267",
+      "elementID": "s-Label_13",
+      "canvasURL": "screens/131e0aa3-ec76-40cb-b641-12bfbe12b267",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 67,
+      "parentCode": null,
+      "content": "如果目前无上传任务则显示：X个任务待上传（图标颜色是黄色）；如果待上传或者正在上传任务则显示：X个任务上传不成功（图标颜色是红色）；如果上述信息则显示向右的箭头",
+      "timestamp": "1434346423754",
+      "date": "15-Jun-2015 13:33",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-131e0aa3-ec76-40cb-b641-12bfbe12b267",
+      "elementID": "s-Label_194",
+      "canvasURL": "screens/131e0aa3-ec76-40cb-b641-12bfbe12b267",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 68,
+      "parentCode": null,
+      "content": "该图标只是例子，请设计自行考虑具体图标",
+      "timestamp": "1434347144615",
+      "date": "15-Jun-2015 13:45",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-fe7921ed-cec5-4fd2-9dd3-c80c0695a58d",
+      "elementID": "s-fe7921ed-cec5-4fd2-9dd3-c80c0695a58d",
+      "canvasURL": "screens/fe7921ed-cec5-4fd2-9dd3-c80c0695a58d",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 69,
+      "parentCode": null,
+      "content": "如列表中无上传任务，则在中间提示：无上传任务",
+      "timestamp": "1434354649262",
+      "date": "15-Jun-2015 15:50",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-fe7921ed-cec5-4fd2-9dd3-c80c0695a58d",
+      "elementID": "s-Label_3",
+      "canvasURL": "screens/fe7921ed-cec5-4fd2-9dd3-c80c0695a58d",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 70,
+      "parentCode": null,
+      "content": "这里显示已上传大小，每1秒更新一次",
+      "timestamp": "1434355202030",
+      "date": "15-Jun-2015 16:00",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-fe7921ed-cec5-4fd2-9dd3-c80c0695a58d",
+      "elementID": "s-Ellipse_1",
+      "canvasURL": "screens/fe7921ed-cec5-4fd2-9dd3-c80c0695a58d",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 71,
+      "parentCode": null,
+      "content": "代表本次上传的图片数量",
+      "timestamp": "1434355218767",
+      "date": "15-Jun-2015 16:00",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-fe7921ed-cec5-4fd2-9dd3-c80c0695a58d",
+      "elementID": "s-Ellipse_5",
+      "canvasURL": "screens/fe7921ed-cec5-4fd2-9dd3-c80c0695a58d",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 72,
+      "parentCode": null,
+      "content": "代表刚刚上传完成的任务数量",
+      "timestamp": "1434355242516",
+      "date": "15-Jun-2015 16:00",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-fe7921ed-cec5-4fd2-9dd3-c80c0695a58d",
+      "elementID": "s-Label_10",
+      "canvasURL": "screens/fe7921ed-cec5-4fd2-9dd3-c80c0695a58d",
+      "scenario" : "",
+      "author": "李冰",
+      "authorID" : 0,
+      "code": 73,
+      "parentCode": null,
+      "content": "时间规则与种植表现的图片时间显示顺序一样",
+      "timestamp": "1434357007796",
+      "date": "15-Jun-2015 16:30",
+      "fileName": "",
+      "isRead": true
+    }
+  ]
+}

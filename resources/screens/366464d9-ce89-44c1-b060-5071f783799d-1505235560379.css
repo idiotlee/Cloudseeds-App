@@ -1,0 +1,71 @@
+#s-366464d9-ce89-44c1-b060-5071f783799d > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-366464d9-ce89-44c1-b060-5071f783799d > #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#s-366464d9-ce89-44c1-b060-5071f783799d #s-Image_1 {
+  position: absolute;
+  top: 82px;
+  left: 19px;
+  width: 70px;
+  height: 70px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-366464d9-ce89-44c1-b060-5071f783799d #s-Label_1 {
+  position: absolute;
+  top: 157px;
+  left: 23px;
+  width: 62px;
+  height: 22px;
+  background-color: transparent;
+  background-image: none;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  font-size: 10.0pt;
+  font-family: 微软雅黑,Arial;
+}
+#s-366464d9-ce89-44c1-b060-5071f783799d #s-Label_1 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-366464d9-ce89-44c1-b060-5071f783799d #s-Label_1 span {
+  color: #434343;
+  text-align: center;
+  text-decoration: none;
+  font-family: 微软雅黑,Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-366464d9-ce89-44c1-b060-5071f783799d #s-Label_1 span#rtr-s-Label_1_0 {
+  color: #434343;
+  text-align: center;
+  text-decoration: none;
+  font-family: 微软雅黑,Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+#s-366464d9-ce89-44c1-b060-5071f783799d > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

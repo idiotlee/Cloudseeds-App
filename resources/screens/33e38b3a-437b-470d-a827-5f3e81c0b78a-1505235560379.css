@@ -1,0 +1,111 @@
+#s-33e38b3a-437b-470d-a827-5f3e81c0b78a > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-33e38b3a-437b-470d-a827-5f3e81c0b78a > #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#s-33e38b3a-437b-470d-a827-5f3e81c0b78a #s-Rectangle_2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 667px;
+  background-color: #FFFFFF;
+  background-image: none;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  font-size: 12.0pt;
+  font-family: Roboto-Bold,Arial;
+}
+#s-33e38b3a-437b-470d-a827-5f3e81c0b78a #s-Rectangle_2 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-33e38b3a-437b-470d-a827-5f3e81c0b78a #s-Rectangle_2 span {
+  color: #1174C1;
+  text-align: center;
+  text-decoration: none;
+  font-family: Roboto-Bold,Arial;
+  font-size: 12.0pt;
+}
+#s-33e38b3a-437b-470d-a827-5f3e81c0b78a #s-Rectangle_2 span#rtr-s-Rectangle_2_0 {
+  color: #1174C1;
+  text-align: center;
+  text-decoration: none;
+  font-family: Roboto-Bold,Arial;
+  font-size: 12.0pt;
+  line-height: 0px;
+}
+#s-33e38b3a-437b-470d-a827-5f3e81c0b78a #s-Image_1 {
+  position: absolute;
+  top: 133px;
+  left: 46px;
+  width: 282px;
+  height: 285px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-33e38b3a-437b-470d-a827-5f3e81c0b78a #s-Rich_text_1 {
+  position: absolute;
+  top: 417px;
+  left: 76px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  width: 219px;
+  height: 66px;
+  background-color: transparent;
+  background-image: none;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  line-height: 16px;
+  font-size: 12.0pt;
+  font-family: 微软雅黑,Arial;
+}
+#s-33e38b3a-437b-470d-a827-5f3e81c0b78a #s-Rich_text_1 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-33e38b3a-437b-470d-a827-5f3e81c0b78a #s-Rich_text_1 span {
+  color: #404040;
+  text-align: center;
+  text-decoration: none;
+  font-family: 微软雅黑,Arial;
+  font-size: 12.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-33e38b3a-437b-470d-a827-5f3e81c0b78a #s-Rich_text_1 span#rtr-s-Rich_text_1_0 {
+  color: #404040;
+  text-align: center;
+  text-decoration: none;
+  font-family: 微软雅黑,Arial;
+  font-size: 12.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+#s-33e38b3a-437b-470d-a827-5f3e81c0b78a > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
